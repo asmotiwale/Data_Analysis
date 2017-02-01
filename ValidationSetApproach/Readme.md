@@ -1,4 +1,5 @@
-Estimate the test error of this logistic regression model using the validation set approach
+Estimate the test error of this logistic regression model using the validation set approach.
+
 (a) Fit a logistic regression model that uses income and balance to predict default.
 
 (b) Using the validation set approach, estimate the test error of this model. In order to do this, you must perform the following steps:
